@@ -1,0 +1,22 @@
+﻿  DOS.cpp
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(110,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(147,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(209,31): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(279,31): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(326,27): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(340,23): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(399,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(470,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(541,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(599,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(660,39): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(719,39): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(782,39): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(842,39): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(900,31): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(923,23): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(967,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(1122,35): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester\DSA\DOS Shell Final Project\DOS.cpp(1676,43): warning C4018: '<': signed/unsigned mismatch
+  dos.vcxproj -> D:\3rd Semester\DSA\DOS Shell Final Project\Debug\dos.exe
